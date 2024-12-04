@@ -1,0 +1,18 @@
+.nev{
+      color: azure;
+    display: block; 
+    text-align: center; 
+    background-color: rgb(24, 54, 12); 
+    padding: 20px;
+}
+.first-ff{
+    display: block;
+    text-align:center;
+    background-color: rgb(168, 168, 62);
+    padding: 10px;
+}
+.first-ff{ 
+    padding: 5px;
+    margin: 2px;
+    display: inline-block;
+ }
